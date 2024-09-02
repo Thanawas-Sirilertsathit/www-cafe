@@ -1,10 +1,6 @@
 ## Menu
 
-[First Food Section](#first-food-section) | [Isan Food](#Isan-Food) | [Beverages](#beverages)
-
-## Chinese Food
-| Name | Description | Image | Price |
-|------|-------------|-------|-------|
+[First Food Section](#first-food-section) | [Isan Food](#isan-Food) | [Beverages](#beverages)
 
 ## Isan Food
 | Name         | Description                                                               | Image                              | Price |

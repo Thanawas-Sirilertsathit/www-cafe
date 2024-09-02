@@ -1,11 +1,12 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ... | [Beverages](#beverages)
+[Vietnamese food](#Vietnamese-food) | ... | [Beverages](#beverages)
 
-## First Food Section
-
+## Vietnamese food
+| Name           | Description                                                         | Image                             | Price |
+|:---------------|:--------------------------------------------------------------------|-----------------------------------|------:|
+| Beef Pho (phở bò) | Delicious rice noodles with beef, servered with delicious herb broth | ![Pho beef](/images/pho-beef.jpg) |    40 |        |
 
 ## Beverages
 
-> A table of beverages. Each team member adds one beverage (one row) to the table.
-> Result should be in alphabetical order by beverage name.
+

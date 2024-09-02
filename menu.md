@@ -1,5 +1,5 @@
 ## Menu
-[Isan Food](#isan-Food) | [Vietnamese food](#Vietnamese-food) | [American Food](#american-food) | [Chinese Food](#Chinese-food) | [Beverages](#beverages)</br>
+[Isan Food](#isan-Food) | [Vietnamese food](#Vietnamese-food) | [American Food](#american-food) | [Chinese Food](#Chinese-food) | [Indian Food](#indian-food) | [Beverages](#beverages)</br>
 Note: All prices are in THB
 
 
@@ -22,6 +22,7 @@ Note: All prices are in THB
 | Isan Sausage | fermented pork meat and fat mixed with cooked rice, grill with garlic and salt | ![img.png](images/IsanSausage.png) | 20    |
 | Kor Moo Yang| Grilled pork neck, marinated with special sauces| ![img.png](images/KhorMooYang.png) | 80    |
 
+
 ## American Food
 | Name                    | Description                                                                                                                                                                                                                                                                                                 | Image                                    | Price |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|
@@ -30,7 +31,6 @@ Note: All prices are in THB
 | Grilled Cheese Sandwich | A grilled cheese sandwich is made by placing a cheese filling, often cheddar or American cheese, between two slices of bread, which is then heated until the bread browns and the cheese melts. A layer of butter or mayonnaise may be added to the outside of the bread for additional flavor and texture. | ![image.jpg](images/Grilled_cheese.jpg)  | 160   |
 | Mashed Potato           | Mashed potato or mashed potatoes (American, Canadian and Australian English), colloquially known as mash (British English), is a dish made by mashing boiled or steamed potatoes, usually with added milk, butter, salt and pepper. It is generally served as a side dish to meat or vegetables.            | ![image.jpg](images/mashed-potatoes.jpg) | 70    |
 | Hot Dog                 | A hot dog is a dish consisting of a grilled, steamed, or boiled sausage served in the slit of a partially sliced bun. The term hot dog can refer to the sausage itself. The sausage used is a wiener (Vienna sausage) or a frankfurter (Frankfurter Würstchen, also just called frank).                     | ![image.jpg](images/Hotdog.jpg)          | 30+   |
-
 
 
 ## Chinese Food
@@ -44,13 +44,25 @@ Note: All prices are in THB
 | Wonton noodles | Egg noodles served in hot broth with some leafy vegetable and prawn wonton dumplings | ![wonton_noodles](images/wonton_noodle.jpg) | 60 |
 
 
+## Indian Food
+| Name          | Description                                                                                                                                         | Image                                | Price |
+|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|
+| Pakora        | A fritter consists of any vegetables (often potatoes and onions) which are coated in seasoned gram flour batter and deep fried.                     | ![img.png](images/Pakora.png)        | 130   |
+| Murgh Makhani | Curry made from chicken with a spiced tomato and butter (makhan) sauce.                                                                             | ![img.png](images/Murgh_Makhani.png) | 160   |
+| Dosa          | A thin, savoury hot crepe made from a fermented batter of ground black gram and rice.                                                               | ![img.png](images/Dosa.png)          | 70    |
+| Raita         | A side dish made of dahi (yogurt) with raw, cooked vegetables, or fruit.                                                                            | ![img.png](images/Raita.png)         | 80    |
+| Pani Puri     | A deep-fried breaded hollow spherical shell, about 1 inch in diameter, filled with a combination of finely diced potato, onion, peas, and chickpea. | ![img.png](images/Pani_Puri.png)     | 70    |
+
+
 ## Beverages
 | Beverages name         | Description                                     | Image | Price |
 |------------------------|-------------------------------------------------|-------|-------|
-| Ca phe trung (cà phê trứng) | Unique Vietnamese egg coffee. | ![Egg coffee](/images/egg-coffee.jpg) |    40 |   
+| Ca phe trung (cà phê trứng) | Unique Vietnamese egg coffee. | ![Egg coffee](/images/egg-coffee.jpg) |    40 |
+| Chaas          | A curd-based drink, often referred to as buttermilk. | ![img.png](images/Chaas.png) | 30    |
 | Chrysanthemum Iced Tea | A little bit sweet tea with Chrysanthemum scent |![img.png](images/Tea.png)| 15    |
 | Green tea | A drink that comes from tea leaves and buds originated in China | ![green_tea](images/green_tea.jpg) | 30 |
 | MilkShake      | A sweet beverage made by blending milk, ice cream, and flavorings or sweeteners such as butterscotch, caramel sauce, chocolate syrup, or fruit syrup into a thick, sweet, cold mixture. | ![img.jpg](images/Milkshake.jpg) | 79    |
+
 
 > A table of beverages. Each team member adds one beverage (one row) to the table.
 > Result should be in alphabetical order by beverage name.

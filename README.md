@@ -11,6 +11,4 @@ A cafe for programmers where you can chill and have some food from menu inside.
 | [Chinese Food](menu.md#chinese-food)        | Thanawas         |
 | [Isan Food](menu.md#isan-food)       | Sariya|
 | [American Food](menu.md#american-food) | Pichapop    |
-
-
-
+| [Indian Food](menu.md#indian-food) | Pattharamon |

@@ -49,7 +49,7 @@ Note: All prices are in THB
 |------------------------|-------------------------------------------------|-------|-------|
 | Ca phe trung (cà phê trứng) | Unique Vietnamese egg coffee. | ![Egg coffee](/images/egg-coffee.jpg) |    40 |   
 | Chrysanthemum Iced Tea | A little bit sweet tea with Chrysanthemum scent |![img.png](images/Tea.png)| 15    |
-| Green tea | A drink that comes from tea leaves and buds originated in China | ![green_tea]("/images/green_tea.jpg") | 30 |
+| Green tea | A drink that comes from tea leaves and buds originated in China | ![green_tea](images/green_tea.jpg) | 30 |
 | MilkShake      | A sweet beverage made by blending milk, ice cream, and flavorings or sweeteners such as butterscotch, caramel sauce, chocolate syrup, or fruit syrup into a thick, sweet, cold mixture. | ![img.jpg](images/Milkshake.jpg) | 79    |
 
 > A table of beverages. Each team member adds one beverage (one row) to the table.

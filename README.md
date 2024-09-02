@@ -1,11 +1,11 @@
-# Name of Your Cafe
+# www cafe
 
-Write a one or two sentence description of your cafe.
+A cafe for programmers where you can chill and have some food from menu inside.
 
 ## [Menu](menu.md)
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-| [Junk Food](menu.md#junk-food)        | Bill Gates         |
+| [Chinese Food](menu.md#chinese-food)        | Thanawas         |
 
 

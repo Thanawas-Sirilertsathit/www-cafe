@@ -4,8 +4,8 @@ REAL food for students in computer engineering department.
 
 ## [Menu](menu.md)
 
-| Cuisine                          | Contributor           |
-|:---------------------------------|-----------------------|
-| [Vietnamese](menu.md#Vietnamese) | Khunakorn Pattayakorn |
+| Cuisine                                    | Contributor           |
+|:-------------------------------------------|-----------------------|
+| [Vietnamese food](menu.md#Vietnamese-food) | Khunakorn Pattayakorn |
 
 

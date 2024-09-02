@@ -5,12 +5,12 @@
 ## Chinese Food
 | Name | Description | Image | Price |
 |------|-------------|-------|-------|
-| Deep-fried crab meat rolls | Crispy dough wraps around the crab meat in cylindrical shape | ![crab_roll]("/images/crab_roll.jpg"){width=100 height=100} | 180 |
-| Jiaozi | Jiaozi consists of ground meat and vegetable filling in a piece of thin dough | ![jiaozi]("/images/jiaozi.jpg"){width=100 height=100} | 60 |
-| Peking duck | Crispy skin of duck serving with pancake rolls, cucumber, spring onion and sweet bean sauce | ![peking_duck]("/images/peking_duck.jpg"){width=100 height=100} | 500 |
-| Shark fin soup | Soup or stewed of shark fin that provides you nice texture | ![shark_fin]("/images/shark_fin.jpg"){width=100 height=100} | 2500 |
-| Steamed pork bun | Hydrated white flatten ball shaped dough contains pork inside | ![pork_bun]("/images/pork_bun.jpg"){width=100 height=100} | 20 |
-| Wonton noodles | Egg noodles served in hot broth with some leafy vegetable and prawn wonton dumplings | ![wonton_noodles]("/images/wonton_noodle.jpg"){width=100 height=100} | 60 |
+| Deep-fried crab meat rolls | Crispy dough wraps around the crab meat in cylindrical shape | ![crab_roll]("/images/crab_roll.jpg") | 180 |
+| Jiaozi | Jiaozi consists of ground meat and vegetable filling in a piece of thin dough | ![jiaozi]("/images/jiaozi.jpg") | 60 |
+| Peking duck | Crispy skin of duck serving with pancake rolls, cucumber, spring onion and sweet bean sauce | ![peking_duck]("/images/peking_duck.jpg") | 500 |
+| Shark fin soup | Soup or stewed of shark fin that provides you nice texture | ![shark_fin]("/images/shark_fin.jpg") | 2500 |
+| Steamed pork bun | Hydrated white flatten ball shaped dough contains pork inside | ![pork_bun]("/images/pork_bun.jpg") | 20 |
+| Wonton noodles | Egg noodles served in hot broth with some leafy vegetable and prawn wonton dumplings | ![wonton_noodles]("/images/wonton_noodle.jpg") | 60 |
 
 
 ## Beverages

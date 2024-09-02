@@ -9,6 +9,7 @@ A cafe for programmers where you can chill and have some food from menu inside.
 |:-------------------------------------------|-----------------------|
 | [Vietnamese food](menu.md#Vietnamese-food) | Khunakorn |
 | [Chinese Food](menu.md#chinese-food)        | Thanawas         |
+| [Isan Food](menu.md#isan-food)       | Sariya|
 
 
 

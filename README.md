@@ -1,11 +1,14 @@
+
 # www-cafe
 
-REAL food for students in computer engineering department.
+A cafe for programmers where you can chill and have some food from menu inside.
 
 ## [Menu](menu.md)
 
 | Cuisine                                    | Contributor           |
 |:-------------------------------------------|-----------------------|
-| [Vietnamese food](menu.md#Vietnamese-food) | Khunakorn Pattayakorn |
+| [Vietnamese food](menu.md#Vietnamese-food) | Khunakorn |
+| [Chinese Food](menu.md#chinese-food)        | Thanawas         |
+
 
 

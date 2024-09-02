@@ -11,8 +11,11 @@ Note: All prices are in THB
 | Banh mi (Bánh mì)   | Short baguette with a thin, crisp crust and a soft, airy texture. </br> Stuffed with meat and vegetables. | ![Banh mi](/images/banh-mi.jpg)   |    60 |
 | Ga tan (gà tần)    | Vietnamese style chicken soup.                                                                            | ![Ga tan](/images/Ga-tan.jpg)     |    60 |
 
+## Chinese Food
+| Name | Description | Image | Price |
+|------|-------------|-------|-------|
+
 ## Beverages
 | Name            | Description                   | Image                                 | Price |
 |:----------------|:------------------------------|---------------------------------------|------:|
 | Ca phe trung (cà phê trứng) | Unique Vietnamese egg coffee. | ![Egg coffee](/images/egg-coffee.jpg) |    40 |   
-
